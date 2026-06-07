@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840950673551",
+    "project_id": "spiritsyestem",
+    "storage_bucket": "spiritsyestem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840950673551:android:2c4473b97834056cbe00fa",
+        "android_client_info": {
+          "package_name": "com.example.lingolens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJJXTWkBmQhZsQH5aOYRfUwGzPtmq9Iu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
