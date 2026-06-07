@@ -5,11 +5,6 @@ Users can save words they want to learn with meaning and translation.
 
 ---
 
-## Screenshots
-
-| Empty State | Filled State | Add Word |
-|-------------|--------------|----------|
-| ![Empty](screenshots/empty_state.png) | ![Filled](screenshots/filled_state.png) | ![Add](screenshots/add_word.png) |
 
 ---
 
